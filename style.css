@@ -1,0 +1,36 @@
+/** Styles **/
+
+button {
+    display: block;
+    height: 50px;
+    width: 200px;
+    margin-top: 20px;
+}
+
+/* Tag */
+body.day {
+    background-color: #eeeeee;
+}
+
+h1.day {
+    color: #333333;
+}
+
+p.day {
+    color: #333333;
+}
+
+
+
+/* Night */
+body.night {
+    background-color: #333333;
+}
+
+h1.night {
+    color: #eeeeee;
+}
+
+p.night {
+    color: #eeeeee;
+}
